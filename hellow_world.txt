@@ -1,1 +1,2 @@
 Hi, I just want to test this. Thanks
+Testing for git commit without -m
